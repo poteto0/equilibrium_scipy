@@ -2,7 +2,7 @@
 
 ### Installing
 ```sh
-pip install git+https://github.com/poteto0/equilibrium_scipy
+pip install git+https://github.com/poteto0/equilibrium_scipy.git
 ```
 
 ```python
