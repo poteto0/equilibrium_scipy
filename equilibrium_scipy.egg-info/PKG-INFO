@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: equilibrium-scipy
+Version: 1.0.0
+Summary: calculating equilibrium points & stability analysis by scipy
+Author: poteto0
+License: MIT

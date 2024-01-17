@@ -1,0 +1,7 @@
+setup.py
+equilibrium_scipy/__init__.py
+equilibrium_scipy/main.py
+equilibrium_scipy.egg-info/PKG-INFO
+equilibrium_scipy.egg-info/SOURCES.txt
+equilibrium_scipy.egg-info/dependency_links.txt
+equilibrium_scipy.egg-info/top_level.txt
