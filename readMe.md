@@ -1,5 +1,10 @@
 # equilibrium_scipy
 
+### Installing
+```sh
+pip install git+https://github.com/poteto0/equilibrium_scipy
+```
+
 ```python
 import equilibrium_scipy as eq
 ```
